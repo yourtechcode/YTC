@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "428836188393",
+    "firebase_url": "https://yourtechcode-dad52.firebaseio.com",
+    "project_id": "yourtechcode-dad52",
+    "storage_bucket": "yourtechcode-dad52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428836188393:android:167fb6467b333aa4",
+        "android_client_info": {
+          "package_name": "com.ramotion.cardslider.examples.simple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428836188393-ntkgec5lgcicjhvn7ceh8d6940m1fidl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramotion.cardslider.examples.simple",
+            "certificate_hash": "0a73e86e7770463dd5445c8341e72eb1d9c19a1f"
+          }
+        },
+        {
+          "client_id": "428836188393-j5gmlul71bla1b7ntug3u16l1e1sm9kb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramotion.cardslider.examples.simple",
+            "certificate_hash": "b73f09f9696e34bc733a0e65dec603f8980d852e"
+          }
+        },
+        {
+          "client_id": "428836188393-qtp33jjh7id8et84qoj2v7qcf0iu7rs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkFUVg1KlTSKQ7JJzcaJiXt65gD44T19c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428836188393-qtp33jjh7id8et84qoj2v7qcf0iu7rs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

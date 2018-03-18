@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">YourTechCode</string>
+    <string name="text1">The complete Android course with Android Studio and Java. Go from beginner to professional app developer.</string>
+    <string name="text2">Learn iOS 11 App Development From Beginning to End. Using Xcode 9 and Swift 4. Includes Full ARKit and CoreML Modules!</string>
+    <string name="text3">Kotlin is an expressive, concise and powerful development language on Android. Learn everything you need to know to start</string>
+    <string name="text4">Learn web development with HTML, CSS, Bootstrap 4, ES6 React and Node</string>
+    <string name="text5">Use React Native and your React knowledge and take your web development skills to build native iOS and Android Apps</string>
+    <string name="unity">Learn Unity game design in 2D and 3D game development and make your own C# games in Unity 3D</string>
+    <string name="ps">Learn Photoshop and use it to create amazing website designs. No coding needed!</string>
+    <string name="sketch">Learn how to design mobile apps with Sketch 3 for beginners</string>
+    <string name="ethical">Learn Ethical Hacking using Kali from Scratch</string>
+    <string name="python">Learn Python with Python Programming for Beginners</string>
+    <string name="internet">Check your Internet Connection and try again</string>
+</resources>
